@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaywcjlove/linux-command.git"
+    "url": "git+https://iyzh635428.github.io/linux-command.git"
   },
   "devDependencies": {
     "archiver": "5.1.0",
@@ -36,7 +36,7 @@
     "uglify-js": "3.12.1"
   },
   "bugs": {
-    "url": "https://github.com/jaywcjlove/linux-command/issues"
+    "url": "https://iyzh635428.github.io/linux/issues"
   },
-  "homepage": "https://jaywcjlove.github.io/linux-command/"
+  "homepage": "https://iyzh635428.github.io/linux/"
 }
